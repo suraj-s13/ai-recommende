@@ -39,7 +39,7 @@ function App() {
       <header className="App-header">
         <h1>AI Tool Finder</h1>
         <p>
-          Describe what you need, and we'll find the right AI tool for the job.
+          Unlock the power of AI for any task.
         </p>
       </header>
       <main>
