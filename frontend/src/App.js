@@ -20,8 +20,7 @@ function App() {
     setResults([]);
 
     try {
-      const apiUrl =
-        process.env.REACT_APP_API_URL || "http://127.0.0.1:5000";
+      const apiUrl = process.env.REACT_APP_API_URL || "http://127.0.0.1:5000";
       const response = await axios.post(`${apiUrl}/recommend`, {
         query,
       });
@@ -38,9 +37,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>AI Tool Finder</h1>
-        <p>
-          Unlock the power of AI for any task.
-        </p>
+        <p>Unlock the power of AI for any task.</p>
       </header>
       <main>
         <SearchBar
