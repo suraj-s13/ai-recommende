@@ -110,7 +110,7 @@ body {
   border-color: #007bff; /* Highlight border on hover */
 }
 
-.card-holder {
+.card-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
