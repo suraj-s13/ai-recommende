@@ -13,7 +13,7 @@ with open('tools_with_embeddings.json', 'r') as f:
 
 tools_embeddings = np.array([tool['embedding'] for tool in tools_data])
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('multi-qa-MiniLM-L6-cos-v1')
 
 @app.route('/recommend', methods=['POST'])
 def recommend():
