@@ -5,6 +5,9 @@ FROM python:3.11
 RUN useradd -m -u 1000 user
 USER user
 
+# Add the user's local bin to the PATH
+ENV PATH="/home/user/.local/bin:$PATH"
+
 # Set the working directory in the container
 WORKDIR /app
 
