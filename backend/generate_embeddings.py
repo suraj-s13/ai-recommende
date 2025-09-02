@@ -3,7 +3,7 @@ import json
 from sentence_transformers import SentenceTransformer
 
 # Load the model. This will be downloaded the first time you run it.
-model = SentenceTransformer('multi-qa-MiniLM-L6-cos-v1')
+model = SentenceTransformer('all-mpnet-base-v2')
 
 # Load your tool data
 with open('tools.json', 'r') as f:
