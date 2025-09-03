@@ -4,7 +4,7 @@ An intelligent web application that helps users discover the most suitable AI to
 
 ### ✨ [Live Demo Link](https://ai-tool-recommende.onrender.com/) ✨
 
-![AI Tool Recommender Screenshot](https://i.imgur.com/your-screenshot-url.png)
+![AI Tool Recommender Screenshot](https://github.com/suraj-s13/ai-recommende/blob/main/.vscode/AI-Tool%20Recom.png)
 
 ## ## About The Project
 
