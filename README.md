@@ -6,7 +6,7 @@ An intelligent web application that helps users discover the most suitable AI to
 
 ![AI Tool Recommender Screenshot](https://github.com/suraj-s13/ai-recommende/blob/main/.vscode/AI-Tool%20Recom.png)
 
-## ## About The Project
+## About The Project
 
 The world of AI is expanding at an incredible rate, with hundreds of new tools released every month. This project was built to solve a common problem: "Which AI tool should I use?" 
 
@@ -14,7 +14,7 @@ This application acts as a specialized search engine. It uses **semantic search*
 
 ---
 
-## ## How It Works
+## How It Works
 
 The magic behind the recommendation engine is a process based on **vector embeddings** and **cosine similarity**:
 
@@ -25,7 +25,7 @@ The magic behind the recommendation engine is a process based on **vector embedd
 
 ---
 
-## ## Tech Stack
+## Tech Stack
 
 This project is a full-stack application built with modern technologies.
 
@@ -43,7 +43,7 @@ This project is a full-stack application built with modern technologies.
 
 ---
 
-## ## Local Development Setup
+## Local Development Setup
 
 To get a local copy up and running, follow these simple steps.
 
@@ -55,7 +55,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/](https://github.com/)[your-github-username]/[your-repo-name].git
+    git clone [https://github.com/](https://github.com/)[suraj-s13]/[ai-recommender].git
     cd [your-repo-name]
     ```
 
@@ -95,6 +95,6 @@ To get a local copy up and running, follow these simple steps.
 
 ---
 
-## ## License
+## License
 
 Distributed under the MIT License. See `LICENSE` file for more information.
